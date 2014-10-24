@@ -8,14 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Memoir of a Reverse Pioneer
+title:  Memoir of a Reverse Pioneer
 tagline: 
-author : Kyle Wayne Benson
-  name : Kyle Wayne Benson
-  email : help@kylewaynebenson.com
-  github : kylewaynebenson
-  twitter : kylewaynebenson
-  feedburner : 
+author: Kyle Wayne Benson
+name: Kyle Wayne Benson
+email:  help@kylewaynebenson.com
+github: kylewaynebenson
+twitter:  kylewaynebenson
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +24,7 @@ author : Kyle Wayne Benson
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://kylewaynebenson.github.io
+production_url : http://reversepioneer.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
