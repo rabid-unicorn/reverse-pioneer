@@ -9,7 +9,7 @@ tags : []
 
 Call me Mormon. Most people have, or did. I’m not sure if I’ve ever been Mormon enough for my grandparents on my mother’s side.
 
-Mormon—those who don’t masterbate or drink alchohol—if I ever do come around to allowing myself the popular pleasures that the doctrine forbids, I will be a Mormon still. Mormonism is so abrasive, it can’t help but be this way.
+Mormon—those who don’t masterbate or booze up—if I ever do come around to allowing myself the popular pleasures that the doctrine forbids, I will be a Mormon still. Mormonism is so abrasive, it can’t help but be this way.
 
 My friend Trevor told me that vulnerability is inherently interesting. So here I am, on page 1, being the most vulnerable that I can be: 
 
