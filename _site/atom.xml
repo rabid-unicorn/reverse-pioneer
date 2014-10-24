@@ -4,7 +4,7 @@
  <title>Memoir of a Reverse Pioneer</title>
  <link href="http://reversepioneer.github.io/" rel="self"/>
  <link href="http://reversepioneer.github.io"/>
- <updated>2014-10-24T10:46:58-06:00</updated>
+ <updated>2014-10-24T13:11:10-06:00</updated>
  <id>http://reversepioneer.github.io</id>
  <author>
    <name></name>
@@ -13,249 +13,336 @@
 
  
  <entry>
-   <title>Jekyll Introduction</title>
-   <link href="http://reversepioneer.github.io/lessons/2011/12/29/jekyll-introduction"/>
-   <updated>2011-12-29T00:00:00-07:00</updated>
-   <id>http://reversepioneer.github.io/lessons/2011/12/29/jekyll-introduction</id>
+   <title>The Great and Spacious Starter Home</title>
+   <link href="http://reversepioneer.github.io/chapter%204/2014/10/24/the-great-and-spacious-starter-home"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%204/2014/10/24/the-great-and-spacious-starter-home</id>
    <content type="html">
-&lt;h1 id=&quot;this-is-a-test-to-see-if-i-can-get-this-to-work-on-github-pages&quot;&gt;This is a test to see if I can get this to work on Github Pages&lt;/h1&gt;
+&lt;p&gt;A year into our marriage, my wife and I pursued a long standing dream of mine to live in an Airstream trailer. I had had fantasies as a teenager that included living in one a few hours East of Los Angeles, out in the middle of nowhere, with only a motorcycle, some solar panels, and a rainwater catch to survive. Beyond simple romantic idealism, this was my religion.&lt;/p&gt;
 
-&lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
+&lt;p&gt;Still working on the motorcycle part. “All that happens if you quit consuming is someone else eats your lunch.” - Tom Rachman&lt;/p&gt;
 
-&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;An outsider to Mormonism would be able to quickly point out that Mormons have just as many tracts on Jesus Christ as they do on self sustained, within means, and debt free living. In the semi-annual conference that the church holds, just as many warnings and revelations are given about spiritual danger as there are physical hunger and comfort of living.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-is-jekyll&quot;&gt;What is Jekyll?&lt;/h3&gt;
+&lt;p&gt;No one is a stranger the colloquial reference to something being “great and spacious”, coined by a prophet in the Book of Mormon.&lt;/p&gt;
 
-&lt;p&gt;Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
-dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as “a simple, blog aware, static site generator”.&lt;/p&gt;
+&lt;p&gt;As a teenager my quest toward holiness I have had more romantic visions of self induced poverty than of running away, kissing a beautiful girl on the mouth, or winning the battle of the bands. Self sustained living was a pretty massively important undertaking, even for a brain that lacked any wide scope reasoning whatsoever.&lt;/p&gt;
 
-&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+&lt;p&gt;When Claire and I were newly engaged, I remember the uncomfortable looks that girls would give her when she showed off her twenty dollar clay engagement ring. More than that, I remember visiting the parents of my high school best friend for a party and telling them about our engagement. They had met Claire many times, but I wouldn’t call our relationship with them a comfortable one. Still, when she held out her hand, I vividly remember the way he tilted his head, lifted one eyebrow, and drew out the word, “interesting.”&lt;/p&gt;
 
-&lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So here we are at 24 years old, living in a great and spacious basement apartment in the low income part of the town, finally embarking on the final quest of our lives: getting as far the hell away as we could from the intoxicating and damnable shadow cast by the great and spacious building. I’m not sure if we used the word “hell” then, but it damn well would have felt like a righteous use.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-does-jekyll-do&quot;&gt;What does Jekyll Do?&lt;/h3&gt;
+&lt;p&gt;We held a yard sale and make a cool two-hundred bucks for a lifetime’s worth of clothes, guitar cables, and extra crock pots from wedding gifts. Personal culture felt like collateral worth giving up for the promised happiness and peace of mind.&lt;/p&gt;
 
-&lt;p&gt;Jekyll is a ruby gem you install on your local system.
-Once there you can call &lt;code&gt;jekyll --server&lt;/code&gt; on a directory and provided that directory
-is setup in a way jekyll expects, it will do magic stuff like parse markdown/textile files,
-compute categories, tags, permalinks, and construct your pages from layout templates and partials.&lt;/p&gt;
+&lt;p&gt;I felt better about cleansing myself of those dreadful possessions than I ever have about repenting from spiritual sins.&lt;/p&gt;
 
-&lt;p&gt;Once parsed, Jekyll stores the result in a self-contained static &lt;code&gt;_site&lt;/code&gt; folder.
-The intention here is that you can serve all contents in this folder statically from a plain static web-server.&lt;/p&gt;
+&lt;p&gt;My dear, wayward, grandmother pressed us with, “what will you do with all the nice things you got for your wedding?” It was easy enough for us to excuse her for being of a different time, but the pit of my stomach was trying to convince me she was less spiritually in tune for having even brought it up.&lt;/p&gt;
 
-&lt;p&gt;You can think of Jekyll as a normalish dynamic blog but rather than parsing content, templates, and tags
-on each request, Jekyll does this once &lt;em&gt;beforehand&lt;/em&gt; and caches the &lt;em&gt;entire website&lt;/em&gt; in a folder for serving statically.&lt;/p&gt;
+&lt;p&gt;We got to a comfortable place with the trailer, and headed for Portland. We tried to take it easy, and gave ourselves a week to get there. &lt;/p&gt;
 
-&lt;h3 id=&quot;jekyll-is-not-blogging-software&quot;&gt;Jekyll is Not Blogging Software&lt;/h3&gt;
+&lt;p&gt;Claire had a hard time with the move. When we got within thirty miles of the city we decided to find a place to park near the Columbia River to sleep for the night. Claire did all the driving and found herself up a dead end on Private Property, and unable to turn our around our 47 foot rig.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jekyll is a parsing engine.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In tears she jumped from the truck and sat on the ground, running her hands through her hair. This is the same rain dance she performs the night before an important event, or during a situation she feels like she has lost control over. Or really any time her expectations aren’t met. I’m never sure what she wants me to do in these cases. As far as I could see she wanted me back the trailer up and drive it back to Utah.&lt;/p&gt;
 
-&lt;p&gt;Jekyll does not come with any content nor does it have any templates or design elements.
-This is a common source of confusion when getting started.
-Jekyll does not come with anything you actually use or see on your website - you have to make it.&lt;/p&gt;
+&lt;p&gt;I squinted my eyes to watch a camp of homeless people across the river conduct a board meeting on the affairs of the River People of the East Side. One of them was likely breaking the zoning law on minimum livable space.&lt;/p&gt;
 
-&lt;h3 id=&quot;why-should-i-care&quot;&gt;Why Should I Care?&lt;/h3&gt;
+&lt;p&gt;After Claire climbed back into the truck I put my hand on her leg, fanned my fingers out and gently tightened my grasp as I said to her softly, “change is hard.”&lt;/p&gt;
 
-&lt;p&gt;Jekyll is very minimalistic and very efficient.
-The most important thing to realize about Jekyll is that it creates a static representation of your website requiring only a static web-server.
-Traditional dynamic blogs like Wordpress require a database and server-side code.
-Heavily trafficked dynamic blogs must employ a caching layer that ultimately performs the same job Jekyll sets out to do; serve static content.&lt;/p&gt;
+&lt;p&gt;She had noticed the homeless people now too, to which her ten mile stare at them suggested, “I know.” &lt;/p&gt;
 
-&lt;p&gt;Therefore if you like to keep things simple and you prefer the command-line over an admin panel UI then give Jekyll a try.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Developers like Jekyll because we can write content like we write code:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The large, gay, machismo, manager of a trailer park on Killingsworth street was sitting across the desk from us in the office room of the double wide trailer he lived in with his partner 21-years-the-younger. Charles wasn’t always his name, with a frown he nodded to a small brown plaque perched on the furthest edge of his desk. He changed it after the divorce to his wife of 25 years.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Ability to write content in markdown or textile in your favorite text-editor.&lt;/li&gt;
-  &lt;li&gt;Ability to write and preview your content via localhost.&lt;/li&gt;
-  &lt;li&gt;No internet connection required.&lt;/li&gt;
-  &lt;li&gt;Ability to publish via git.&lt;/li&gt;
-  &lt;li&gt;Ability to host your blog on a static web-server.&lt;/li&gt;
-  &lt;li&gt;Ability to host freely on GitHub Pages.&lt;/li&gt;
-  &lt;li&gt;No database required.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;His perfectly parted high and tight haircut stood heroically against the onslaught of breeze provided by the three floor fans surrounding him. The temperature was 78 degrees.&lt;/p&gt;
 
-&lt;h1 id=&quot;how-jekyll-works&quot;&gt;How Jekyll Works&lt;/h1&gt;
+&lt;p&gt;Our conversation followed like this:&lt;/p&gt;
 
-&lt;p&gt;The following is a complete but concise outline of exactly how Jekyll works.&lt;/p&gt;
+&lt;p&gt;“So you want to move in. You and your,” he paused filling out paperwork, pointing to me with his elbow.
+“Husband.”
+“Husband? You’re really married, for real,” Charles continued to frown through his questions.
+“Uh-huh.”
+“Well. Lots-a kids roaming round the park, but your spot’ll be hitched on a solid slab of concrete. No grass, not much fun for little ones.”
+“We don’t have any kids.”
+“How old are you?”
+“Twenty-four.”
+He nodded at me again.
+“Twenty-five.”
+“You’re twenty-god-damn-years-old and you didn’t get married because you got pregnant?”
+“Uh, yup,” she laughed shortly, sucking in hard after each sound.
+“Well. You are a rare breed here,” he said, punctuating each word with a pause.&lt;/p&gt;
 
-&lt;p&gt;Be aware that core concepts are introduced in rapid succession without code examples.
-This information is not intended to specifically teach you how to do anything, rather it
-is intended to give you the &lt;em&gt;full picture&lt;/em&gt; relative to what is going on in Jekyll-world.&lt;/p&gt;
+&lt;p&gt;He also told me us he has one rule, which is do whatever you want in your trailer, just don’t bring it outside. “I don’t care if you knock your husband around, just keep it in the trailer.”&lt;/p&gt;
 
-&lt;p&gt;Learning these core concepts should help you avoid common frustrations and ultimately
-help you better understand the code examples contained throughout Jekyll-Bootstrap.&lt;/p&gt;
+&lt;p&gt;Fir Grove is my favorite place we’ve ever lived. I’d be lying if I said it wasn’t a stressful first week. It’s quite a shock to choose to live in that level of poverty. Lots of drug deals seen, lots of thefts witnessed. But also, that neighborhood (Cully) is my favorite part of Portland. Our experience would have been totally different if we hadn’t seen that beautifully depressed part of town. Great people who care and watch out for those who are close to them.&lt;/p&gt;
 
-&lt;h2 id=&quot;initial-setup&quot;&gt;Initial Setup&lt;/h2&gt;
+&lt;p&gt;Two of the park’s little ones spent a lot of time playing with Joshua, who spent a lot of time that summer laying under one of the only two firs that made up Fir Grove. With the shame of not being able to “keep it in the trailer”, their dad came screaming one day that they were not to leave while he was giving a tattoo.&lt;/p&gt;
 
-&lt;p&gt;After &lt;a href=&quot;/index.html#start-now&quot;&gt;installing jekyll&lt;/a&gt; you’ll need to format your website directory in a way jekyll expects.
-Jekyll-bootstrap conveniently provides the base directory format.&lt;/p&gt;
+&lt;p&gt;Nobody really ever did keep it in the trailer. Not the man living two feet behind us, whose 2am shouting to a prostitute he biblically referred to as, “his sister,” saw him shipped out by noon the next day. Not the woman whose turrets (we could only pray) caused her to scream all bloody murder each night at around 10. And not Claire and I, whose insatiable frustrations with being poor, lonely, and stuck living in a perpetually broken trailer lead to many fights, and even me hastily backing our truck (the only someone nice thing we owned) into a fire hydrant.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Routine</title>
+   <link href="http://reversepioneer.github.io/chapter%2010/2014/10/24/routine"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%2010/2014/10/24/routine</id>
+   <content type="html">
+&lt;p&gt;Organized religion works really well for those who enjoy being organized. But for those who are disorganized, their disorganization becomes a microcosm of lack of Faith at large. No matter how in tune, or spiritual you might be: only the organized survive. &lt;/p&gt;
 
-&lt;h3 id=&quot;the-jekyll-application-base-format&quot;&gt;The Jekyll Application Base Format&lt;/h3&gt;
+&lt;p&gt;This is why we have idioms like: cleanliness is next to godliness, &lt;/p&gt;
 
-&lt;p&gt;Jekyll expects your website directory to be laid out like so:&lt;/p&gt;
+&lt;p&gt;“Just because some of us can read and write and do a little math, that doesn’t mean we deserve to conquer the Universe.” - Kurt Vonnegut&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;.
-|-- _config.yml
-|-- _includes
-|-- _layouts
-|   |-- default.html
-|   |-- post.html
-|-- _posts
-|   |-- 2011-10-25-open-source-is-good.markdown
-|   |-- 2011-04-26-hello-world.markdown
-|-- _site
-|-- index.html
-|-- assets
-    |-- css
-        |-- style.css
-    |-- javascripts
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Just because you enjoy writing, doesn’t mean you keep a daily journal. And just because you feel it is important to pray to God, doesn’t mean feel it’s important to pray to God on a schedule. I turn to my mom for so much advice in life, but I don’t call her every night. The thought of that is overwhelming. I do believe that we have much to learn from being with God and communicating with him, but I believe more than that that we were placed here to be out of his presence and to make decisions absent of his complete and total influence for the intent of learning. If I called my mom up every time I needed to make a decision, I never really would be making a decision.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;
-  Stores configuration data.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;_includes&lt;/strong&gt;
-  This folder is for partial views.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;_layouts&lt;/strong&gt;
-  This folder is for the main templates your content will be inserted into.
-  You can have different layouts for different pages or page sections.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;_posts&lt;/strong&gt;
-  This folder contains your dynamic content/posts.
-  the naming format is required to be &lt;code&gt;@YEAR-MONTH-DATE-title.MARKUP@&lt;/code&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;_site&lt;/strong&gt;
-  This is where the generated site will be placed once Jekyll is done transforming it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;assets&lt;/strong&gt;
-  This folder is not part of the standard jekyll structure.
-  The assets folder represents &lt;em&gt;any generic&lt;/em&gt; folder you happen to create in your root directory.
-  Directories and files not properly formatted for jekyll will be left untouched for you to serve normally.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;“Freedom and reason make us men, take these away what are we then? Mere animals and just as well the beasts can’t think on heav’n or hell.”&lt;/p&gt;
 
-&lt;p&gt;(read more: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Usage&quot;&gt;https://github.com/mojombo/jekyll/wiki/Usage&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;My dog is a master of routine. I can’t remember the last time I &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Physiological Reexamination of the Fiber of my Being</title>
+   <link href="http://reversepioneer.github.io/chapter%202/2014/10/24/physiological-reexamination"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%202/2014/10/24/physiological-reexamination</id>
+   <content type="html">
+&lt;p&gt;Two years ago, I began expressing to a trusted few some of my concerns with Mormonism. By ten months ago I had decided it was about time to buckle down and decided if I was in or I was out. At the time I believed in a world that provided options in binary outcomes. 1 or 0—yes or no. Eventually I had to add a 2: God only knows why—who the hell cares.&lt;/p&gt;
 
-&lt;h3 id=&quot;jekyll-configuration&quot;&gt;Jekyll Configuration&lt;/h3&gt;
+&lt;p&gt;Back in those early days God liked people who were republicans much more than he liked democrats. &lt;/p&gt;
 
-&lt;p&gt;Jekyll supports various configuration options that are fully outlined here:
-(&lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Configuration&quot;&gt;https://github.com/mojombo/jekyll/wiki/Configuration&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;And I was a democrat—God only knows why.&lt;/p&gt;
 
-&lt;h2 id=&quot;content-in-jekyll&quot;&gt;Content in Jekyll&lt;/h2&gt;
+&lt;p&gt;Be that as it may, I felt like I was using my small but strong moral compass to make the decisions that God needed me to (vote for Obama, use properly marked road crossings, and keep the toilet bowl clean). Relationships be damned, I was on the Lord’s mission. Anyone unable to understand this paragraph can please see also: Prayer, Personal Nature Of.&lt;/p&gt;
 
-&lt;p&gt;Content in Jekyll is either a post or a page.
-These content “objects” get inserted into one or more templates to build the final output for its respective static-page.&lt;/p&gt;
+&lt;p&gt;I make no claims to knowing God, but I do consider myself someone who understands the Guy. I’ve spent nearly my entire life trying to anyway. Most members of most religions who talk about knowing God a lot or a little are talking about the esoteric secrets they do or do not know within their sect. In that way, I know Mormon God like the back of a hand being held up to perform a baptism. But in the less literal sense, I have tried throughout my life to speak with God and keep a constant dialog with him in my heart—God only knows why. &lt;/p&gt;
 
-&lt;h3 id=&quot;posts-and-pages&quot;&gt;Posts and Pages&lt;/h3&gt;
+&lt;p&gt;Surely the heart is a lousy communication device, but as far as I know its all I’ve got. Other than communicating with the Almighty, my heart has no qualifications as my spokesperson.&lt;/p&gt;
 
-&lt;p&gt;Both posts and pages should be written in markdown, textile, or HTML and may also contain Liquid templating syntax.
-Both posts and pages can have meta-data assigned on a per-page basis such as title, url path, as well as arbitrary custom meta-data.&lt;/p&gt;
+&lt;p&gt;Unqualified though it may be, I’m proud of where it has gotten me in life.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Missing Heaven by an Underwear Drawer</title>
+   <link href="http://reversepioneer.github.io/chapter%203/2014/10/24/missing-heaven-by-an-underwear-drawer"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%203/2014/10/24/missing-heaven-by-an-underwear-drawer</id>
+   <content type="html">
+&lt;p&gt;After months of shoving aside heaps of greying garments, I finally bagged up the mess of them and took them down to the basement. A sufficient amount of time was spent pretending that keeping these in my underwear drawer came even close to covenant keeping.&lt;/p&gt;
 
-&lt;h3 id=&quot;working-with-posts&quot;&gt;Working With Posts&lt;/h3&gt;
+&lt;p&gt;I scurried down the stairs and unceremoniously tossed the knotted closed grocery bag between our unused bike trailer and my rather new looking skateboard. Like once proud champions, now tired from the fight, the three slumped against each other for support. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Creating a Post&lt;/strong&gt;
-Posts are created by properly formatting a file and placing it the &lt;code&gt;_posts&lt;/code&gt; folder.&lt;/p&gt;
+&lt;p&gt;No joke, in there day they really were champions. For each my heart still holds a little bit of guilt. A little guilt for each member of the basement catalog of lost ideals. Before I turn and shut the door, my eyes pause on the heap. With each step up the stairs my heart aches to be able to do kickflips while wearing garments for the rest of my life.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;
-A post must have a valid filename in the form &lt;code&gt;YEAR-MONTH-DATE-title.MARKUP&lt;/code&gt; and be placed in the &lt;code&gt;_posts&lt;/code&gt; directory.
-If the data format is invalid Jekyll will not recognize the file as a post. The date and title are automatically parsed from the filename of the post file.
-Additionally, each file must have &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt; prepended to its content.
-YAML Front-Matter is a valid YAML syntax specifying meta-data for the given file.&lt;/p&gt;
+&lt;p&gt;Here I am wondering if I’ll miss heaven by an underwear drawer. Even so, it’s not a bad way to go. Surely God is not perfect, and superficial like the rest of us, he would look on the heart in every judgement case but mine. For me, he’d simply look at the way my shirt hangs on my frame and know I wasn’t wearing the cut of the right cloth.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Order&lt;/strong&gt;
-Ordering is an important part of Jekyll but it is hard to specify a custom ordering strategy.
-Only reverse chronological and chronological ordering is supported in Jekyll.&lt;/p&gt;
+&lt;p&gt;After pulling the Hell lever on me, he’d say, “next,” and pull a ruler out to measure the distance between the head and the heart of the new quivering child in front of him. “Nineteen inches,” he’d mutter to himself, “shame.”&lt;/p&gt;
 
-&lt;p&gt;Since the date is hard-coded into the filename format, to change the order, you must change the dates in the filenames.&lt;/p&gt;
+&lt;p&gt;Where observable and measurable goes, religion is laden with these types of rubrics. Orthodoxy loves its gematria, its quantitative penance, and Mormonism has its fair share. A deacon, who God-willing remembers to put on underwear and clean his face everyday, is prevented from passing the sacrament if his shirt color is anything but white. An attender is ostracized if they put off a  smell just a few degrees south of smokeless.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tags&lt;/strong&gt;
-Posts can have tags associated with them as part of their meta-data.
-Tags may be placed on posts by providing them in the post’s YAML front matter.
-You have access to the post-specific tags in the templates. These tags also get added to the sitewide collection.&lt;/p&gt;
+&lt;p&gt;I suppose that even the basement isn’t far enough to be considered abandoned. Maybe God gives leeway to those who codependently hold onto underwear rather than throw it out. I’m sure he uses measuring tape for those judgements. Using a ruler would look silly. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Categories&lt;/strong&gt;
-Posts may be categorized by providing one or more categories in the YAML front matter.
-Categories offer more significance over tags in that they can be reflected in the URL path to the given post.
-Note categories in Jekyll work in a specific way.
-If you define more than one category you are defining a category hierarchy “set”.
-Example:&lt;/p&gt;
+&lt;p&gt;But I wish I could abandon them. Hell, more than that I wish I could dye them black, roll up and cuff the ends, and hem the shirts into tank tops.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;---
-title :  Hello World
-categories : [lessons, beginner]
----
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Worse than missing heaven by an underwear drawer is missing it by…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dutiless</title>
+   <link href="http://reversepioneer.github.io/chapter%209/2014/10/24/marriage"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%209/2014/10/24/marriage</id>
+   <content type="html">
+&lt;p&gt;This last year taught me a lot about living. As a classically trained Christian who was obsessed with a dutiful desire to be obedient to God by expressing charity and love, I’ve always felt that it is rather difficult to be a decent human being. And that thought extends far past that thought and into ambiguous territory like the difficulties of: reading the right books, feeling the correct emotions, using my time in the right ways, or having the appropriate self body image.&lt;/p&gt;
 
-&lt;p&gt;This defines the category hierarchy “lessons/beginner”. Note this is &lt;em&gt;one category&lt;/em&gt; node in Jekyll.
-You won’t find “lessons” and “beginner” as two separate categories unless you define them elsewhere as singular categories.&lt;/p&gt;
+&lt;p&gt;Anyone who has the background that I do loves programs because they give a life rubric that is easy to carry around in your pocket. For those who know me well, I’m sure you’ve heard me reference Quadrant 2 (from 7 Habits) or codependence (from Codependent no More) quite a few times. The not so easy, but task focused, philosophies within self help books have always offered me an out for my unwillingness to be disobedient to those aforementioned ambiguous rules.&lt;/p&gt;
 
-&lt;h3 id=&quot;working-with-pages&quot;&gt;Working With Pages&lt;/h3&gt;
+&lt;p&gt;And though they may have made me a good, or successful, person they have not made me a person worth being in the company of. A drone will always make a lousy friend.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Creating a Page&lt;/strong&gt;
-Pages are created by properly formatting a file and placing it anywhere in the root directory or subdirectories that do &lt;em&gt;not&lt;/em&gt; start with an underscore.&lt;/p&gt;
+&lt;p&gt;Don’t get my wrong: I’m writing this article now because of my need to see it as a task accomplished. Tasks are not inherently wrong, but they are highly addictive and in so being become life dominating. They are the mechanics of the day to day, but nothing more. In looking back in my life, I would hope those day to day trees are forgotten for the sake of the forest.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;
-In order to register as a Jekyll page the file must contain &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt;.
-Registering a page means 1) that Jekyll will process the page and 2) that the page object will be available in the &lt;code&gt;site.pages&lt;/code&gt; array for inclusion into your templates.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;If you were to die right now, what would be the feeling texture of your last moment? […] Are you so absorbed in some task that you would hardly notice death upon you? — David Dieda
+So, as I begin this year, I’m trying to take more opportunities to celebrate my failure at keeping to all the lofty goals I’ve set for myself in 2014. Any disenchantment with tasks is a cause for celebration, especially if your grand tally of tasks kept was hindered by a grand tally of moments lived.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Categories and Tags&lt;/strong&gt;
-Pages do not compute categories nor tags so defining them will have no effect.&lt;/p&gt;
+&lt;p&gt;There is no way to turn loving someone, or becoming a decent human being, into a series of tasks. That act is achieved in the being, not in the doing. And if being takes all day, at the cost of disrupting a pattern of doing that you’ve long hailed as an indicator of success, I’d consider it a day well spent and a pattern rightly sacrificed.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sub-Directories&lt;/strong&gt;
-If pages are defined in sub-directories, the path to the page will be reflected in the url.
-Example:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Has your task addiction built blinders that limit the vastness of your vision? — David Dieda&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Love</title>
+   <link href="http://reversepioneer.github.io/chapter%2011/2014/10/24/love"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%2011/2014/10/24/love</id>
+   <content type="html">
+&lt;p&gt;We live such monogamous lives.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;.
-|-- people
-    |-- bob
-        |-- essay.html
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We’re not just afraid of plurality, we’re entirely afraid of the infinite. We’re afraid of all that can’t be seen and touched. We live a duality with our love of the internet in that it gives us access to all but we are insufficiently tooled with the ability to actually obtain and comprehend it all. This is terrifying.&lt;/p&gt;
 
-&lt;p&gt;This page will be available at &lt;code&gt;http://yourdomain.com/people/bob/essay.html&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This is also why we both love and hate marriage. To be married is to obtain it all, but it is also to know that you can be closer to someone than anyone else is on the planet and still not fully understand the full depth of their person.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Recommended Pages&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My mind only lets me love what it can comprehend, yet it fantasizes with unexperienced realities in a hope that there is something more love-able outside those confines. This is the societal struggle with all forms of love. How can you have a love for a couple in a homosexual relationships if you have not understood what it is like to be a homosexual? And that same brain makes me wonder, how can you love your job knowing that their might be better jobs out there? The push and pull is relentless, and the relentlessness is so overwhelming that it can become sedating.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;index.html&lt;/strong&gt;
-You will always want to define the root index.html page as this will display on your root URL.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;404.html&lt;/strong&gt;
-Create a root 404.html page and GitHub Pages will serve it as your 404 response.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;sitemap.html&lt;/strong&gt;
-Generating a sitemap is good practice for SEO.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;about.html&lt;/strong&gt;
-A nice about page is easy to do and gives the human perspective to your website.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;I’m finally beginning to feel like I “get” love. It’s always seemed so much bigger than me—like a poem I can memorize but I could never write. But lately it’s so simple without actually becoming any smaller or insignificant.&lt;/p&gt;
 
-&lt;h2 id=&quot;templates-in-jekyll&quot;&gt;Templates in Jekyll&lt;/h2&gt;
+&lt;p&gt;It is plurality. It is bigger than me, but it is also just the right size. Like trudging through the infinite and seeing the final milestone, I feel refreshed in my understanding that I can understand my place in this task. That I have a gift to give that is bigger than just being myself or being someone worthy of a laugh. There is an opportunity to be bigger than a guy whose thoughts are worthy of giving company to. In this moment: no longer is uniqueness, or individuality, the priority of my life.&lt;/p&gt;
 
-&lt;p&gt;Templates are used to contain a page’s or post’s content.
-All templates have access to a global site object variable: &lt;code&gt;site&lt;/code&gt; as well as a page object variable: &lt;code&gt;page&lt;/code&gt;.
-The site variable holds all accessible content and metadata relative to the site.
-The page variable holds accessible data for the given page or post being rendered at that point.&lt;/p&gt;
+&lt;p&gt;And in the beauty of the paradigm, I know that I am still being monogamous in this thought. I know that tomorrow I will be dual in my hate, and the next day triple in my confusion. But for the first time, in the repertoire of my talents, I feel like I can be loving and that that love can be felt.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Create a Template&lt;/strong&gt;
-Templates are created by properly formatting a file and placing it in the &lt;code&gt;_layouts&lt;/code&gt; directory.&lt;/p&gt;
+&lt;p&gt;I have finally learned to love, and I am no longer afraid of dying alone.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Longing for Ostracizing</title>
+   <link href="http://reversepioneer.github.io/chapter%206/2014/10/24/longing-for-ostracizing"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%206/2014/10/24/longing-for-ostracizing</id>
+   <content type="html">
+&lt;p&gt;Finally it came. The feeling I had been waiting for. I woke up and felt my heart doubled over in pain. I stood in the shower and watched the water run through my hands as I felt the dull pain thump like a rhythm through my body.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;
-Templates should be coded in HTML and contain YAML Front Matter.
-All templates can contain Liquid code to work with your site’s data.&lt;/p&gt;
+&lt;p&gt;It wasn’t the pain of sin, or the the sinking feeling of one who regrets. It was the realization of living the rest of my life without the single most important thing previously in my life. The community I was raised in, the place where I was married, the people I called my friends, and the institution by which I learned to be a good man.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Rending Page/Post Content in a Template&lt;/strong&gt;
-There is a special variable in all templates named : &lt;code&gt;content&lt;/code&gt;.
-The &lt;code&gt;content&lt;/code&gt; variable holds the page/post content including any sub-template content previously defined.
-Render the content variable wherever you want your main content to be injected into your template:&lt;/p&gt;
+&lt;p&gt;On Radio West a few weeks before they talked about the inevitable process of loss as you leave the church. Surely sounded like a painful experience.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;...
+&lt;p&gt;This is kind of one of those “time will tell” situations, but at the time I could have sure gone for some outcasting, backlash, or ostracizing. At least then I’d be losing something very tactile. Even in this dreadful moment the only tangible thing I’ve lost is the thick hemming that shows along my knee line when I wear my garments.&lt;/p&gt;
+
+&lt;p&gt;As I hobbled over the seat of my bike I remembered how good it felt to not be wearing garments. It was so nice to get to work and not need to unbunch that extra layer of thick sweaty cotton. But, peddling my way to work, I couldn’t help but feel guilty for having committed a bad bargain. &lt;/p&gt;
+
+&lt;p&gt;Is truth a fair trade for community? Finally my buyer’s remorse had caught up with me, sending me mentally through the lists of pros and cons that didn’t matter until pain pushed the issue.&lt;/p&gt;
+
+&lt;p&gt;And, I suppose that I’m not talking about buyer’s remorse in the conventional sense. I’m talking about eighth grade when I started wearing all black and studs. I wanted to be noticed, somewhere (deep down) to be disciplined—and in being disciplined, to be told what to do; to be given some direction.&lt;/p&gt;
+
+&lt;p&gt;Pain often feels like progress. Pain feels like accomplishment. Pain is running a marathon, and eating some kale, and reading a lengthy piece of literature. Ostracizing is loneliness, it’s contemplation, and surrender. But instead I feel fat on the benefits of gorging. Like a salivating child before a table of sweets all my life, I’ve finally been set free and it would seem my stomach is without remorse. No cavities, no stomach aches, and no spiritual obesity has come upon me as was predicted.&lt;/p&gt;
+
+&lt;p&gt;I long for a stomach ache; I long for the guilt that I’ve surely been warned would be insufferable; I long for the love of a God withdrawn. Oh that I could feel the suffering and I could walk tail between legs back to the pathway to heaven.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Exclusively a Father</title>
+   <link href="http://reversepioneer.github.io/chapter%207/2014/10/24/exclusively-a-father"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%207/2014/10/24/exclusively-a-father</id>
+   <content type="html">
+&lt;p&gt;I’m having a problem knowing what I believe anymore. I do sustain that the intangible experience of going through a sensation (provoked or unprovoked) is real and of spiritual value. So, generally speaking I use that little compass as my guide in making clarity of life. I no longer want to find truth, or to simplify life, just to find clarity.&lt;/p&gt;
+
+&lt;p&gt;I’ve made myself a little notebook to help me understand what feels clear or right for me. On page one is God, and the indication that I believe him to exist, and the date in which I believe him to have last been real. I have also allowed sufficient space to change my mind on that.&lt;/p&gt;
+
+&lt;p&gt;On page two is God as Father, and the indication that I’m not really sure of this. I survived on him being a Father for a long time, because the father-son relationship was easy to develop based on expectations and accomplishments.&lt;/p&gt;
+
+&lt;p&gt;On page 4 is God as Verbal Communicator in which I have indicated that I no longer believe this to be true. With this as false, so fall all the words in the Bible, all the words ever written by a prophet, or anyone who claims to speak in the name of God. Which isn’t to say those words are or aren’t true, just that they are no longer the word of God. &lt;/p&gt;
+
+&lt;p&gt;My own dad isn’t much of a verbal communicator, but that doesn’t mean I don’t understand or know his expectations for me (specifically). But I don’t verbally communicate with the CEO of the company I work for, and that does mean that I don’t understand or know his expectations for me (specifically).&lt;/p&gt;
+
+&lt;p&gt;And this is where I am with God who once was but now might not be my father. He may be very pleased with me, but I am not sure that our relationship is one of command and obey like it once was. It has become something more complex, and much less pleasurable. One where I must experiment my way through life, only to find where the lines of demarcation are after having crossed them and learned why they were there. &lt;/p&gt;
+
+&lt;p&gt;It’s not as bad as it sounds. I was getting close to this belief within Mormonism, but my cognitive dissonance prevented me from really taking advantage of this form of relationship.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Everyday Funerals</title>
+   <link href="http://reversepioneer.github.io/chapter%201/2014/10/24/everyday-funerals"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%201/2014/10/24/everyday-funerals</id>
+   <content type="html">
+&lt;p&gt;I’m constantly holding funerals for people I meet who seem happy. I see a glimpse of some item that holds schema of a better time: a dress that hangs a certain way, a smile turned up on one side, a book in their hand whose corners are warmly worn.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Give it Up to the Great DJ in the Sky</title>
+   <link href="http://reversepioneer.github.io/chapter%2012/2014/10/24/dj-in-the-sky"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%2012/2014/10/24/dj-in-the-sky</id>
+   <content type="html">
+&lt;p&gt;The man upstairs has a record collection as diverse and eclectic as any you’ve ever seen. Sure, when he plays shows, he mostly just samples the stuff you’ve already heard, and he doesn’t take requests, but if you get a group of your friends together and shout loud enough he may honor your wishes.&lt;/p&gt;
+
+&lt;p&gt;Remember when alternative bands started adding disk jokeys to their starting line-up? Lest we forget the more than excitable fellow standing in the back triggering &lt;a href=&quot;https://www.youtube.com/watch?v=ilqGBvMP1-M&quot;&gt;samples at his whim&lt;/a&gt;. Well, God is that band member to every person’s life. You bet your buns he can remixing your average sounding, albeit alternative, life.&lt;/p&gt;
+
+&lt;p&gt;During the summer we play on an adult soccer league that is no stranger to personal injury. One year an older man wore baseball cleats to a game and acciggressively kicked the keeper in the face with them. That same year we had a striker who the year previous had been knocked onto his head, breaking some part of him that kept his legs and arms functioning—but here he was playing harder and running faster than I had seen any paraplegic run. His wife told us the sheer number of prayers was what brought him back to health. She had gotten that careless dipshit of a DJ to stop playing House for long enough to play her song. Good on her for screaming loud enough. &lt;/p&gt;
+
+&lt;p&gt;If that DJ hadn’t started playing dubstep, his injury would have never happened in the first place.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dear God this Hurts</title>
+   <link href="http://reversepioneer.github.io/chapter%2013/2014/10/24/dear-god"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%2013/2014/10/24/dear-god</id>
+   <content type="html">
+&lt;p&gt;Dear God this hurts, and it is not fun. Did you not think I’ve asked God about the decisions I’m making? Did you not think I’m seeking after truth just as you are? Do you think I saw a fork in the road and said, you know that way looks a lot easier? Walking the devil’s path seems like fun.&lt;/p&gt;
+
+&lt;p&gt;I would love to have my name slandered amongst friends.&lt;/p&gt;
+
+&lt;p&gt;It was so easy then. I was doing the right thing, and I was doing it well, and I was happy. When you’re criticizing and scrutinizing something, it’s easy to overlook sentiment and nostalgia.
+I guess it’s all just catching up to me today.
+It’s like someone died and you missed your last chance to have a laugh with them.
+It felt like the last goodbye to something unimaginably valuable to me.&lt;/p&gt;
+
+&lt;p&gt;Lost to me is not my God, but my people.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Good Pair of Levis</title>
+   <link href="http://reversepioneer.github.io/chapter%205/2014/10/24/a-good-pair-of-levis"/>
+   <updated>2014-10-24T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/chapter%205/2014/10/24/a-good-pair-of-levis</id>
+   <content type="html">
+&lt;p&gt;It isn’t like I have anything to do on Sunday mornings. It certainly has become more of a day of rest than it ever was during the time I fell under the title of Active.&lt;/p&gt;
+
+&lt;p&gt;Twenty-six years of church attendance can really set a deep groove into your schedule. Kind of like the rectangular shaped wear a wallet will give to a good pair of Levis—a groove so deep from such rigorous butt rubbing of the butt to the chair that even if the wallet gets left at home the faded shape remains. &lt;/p&gt;
+
+&lt;p&gt;So though I sit on my couch at home, far from the chapel pue, my mind inevitably wanders to the thoughts I would think at church, and even the games I would play on my phone during church. &lt;/p&gt;
+
+&lt;p&gt;I become judgmental in all the ways  I had become until I started feeling unprovoked judgements while lying in bed at 10:30 on a Sunday morning.&lt;/p&gt;
+
+&lt;p&gt;It really is quite nice to feel the judgments bull-rush through my brain with no one to direct them toward. It’s like standing in a cool river, watching the water rush by and not caring where it will end up. It’s not quite as nice to continually be reaching for that metaphorical wallet, finding it not there, and not being able to use the things you keep inside it. Reverence, community, and ownership were feelings that I undervalued until they were no longer mine. The insecurity and nakedness of not having a wallet is much the same.&lt;/p&gt;
+
+&lt;p&gt;Where that wallet used to be the groove is worn deep, and it will likely take some kind of spiritual knee scraping before I finally get a new pair of jeans and stop reaching for that wallet. I suppose this is why near deaths, and the loss of loved ones cause people to become very polarized in their relationship with Deity. The hope is for a return of the wallet, and a patch of the knee. But probably more likely a new pair of Levis altogether—this time without that saddening groove.&lt;/p&gt;
+
+&lt;p&gt;Should I ever buy a new pair of jeans, I’m hoping I’ll have the common sense to get a pair with a strap for a hammer. Because, surely metaphorically and theologically, a hammer can only be a fantastic thing to have with you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction</title>
+   <link href="http://reversepioneer.github.io/introduction/2014/10/23/introduction"/>
+   <updated>2014-10-23T00:00:00-06:00</updated>
+   <id>http://reversepioneer.github.io/introduction/2014/10/23/introduction</id>
+   <content type="html">
+&lt;p&gt;Call me Mormon. Most people have, or did. I’m not sure if I’ve ever been Mormon enough for my grandparents on my mother’s side.&lt;/p&gt;
+
+&lt;p&gt;Mormon—those who don’t masterbate or drink alchohol—if I ever do come around to allowing myself the popular pleasures that the doctrine forbids, I will be a Mormon still. Mormonism is so abrasive, it can’t help but be this way.&lt;/p&gt;
+
+&lt;p&gt;My friend Trevor told me that vulnerability is inherently interesting. So here I am, on page 1, being the most vulnerable that I can be: &lt;/p&gt;
+
+&lt;p&gt;I don’t know what I’m doing with my life, and I’m not sure if leaving mormonism was the right choice.&lt;/p&gt;
+
+&lt;p&gt;I originally set out to write a journalistic account of my pilgrimage away from institutionalized Mormonism. But I quickly found trouble understanding how truth, all by itself, could be enough to tell this story.&lt;/p&gt;
+
+&lt;p&gt;I set out to tell the truth. I was into the truth then. But why should I bother with truth when there are so many feelings to be felt? So I guess this is a fiction. Afterall, isn’t it all fiction by perspective? Doesn’t it only matter if something is felt and by being felt existence is assumed?&lt;/p&gt;
+
+&lt;p&gt;So here’s what is important: &lt;/p&gt;
+
+&lt;p&gt;I never wanted to leave Mormonism.&lt;/p&gt;
+
+&lt;!-- 
+
+
+
+  &lt;pre&gt;&lt;code&gt;...
 &amp;lt;body&amp;gt;
   &amp;lt;div id=&quot;sidebar&quot;&amp;gt; ... &amp;lt;/div&amp;gt;
   &amp;lt;div id=&quot;main&quot;&amp;gt;
@@ -264,176 +351,7 @@ Render the content variable wherever you want your main content to be injected i
 &amp;lt;/body&amp;gt;
 ...&lt;/code&gt;&lt;/pre&gt;
 
-&lt;h3 id=&quot;sub-templates&quot;&gt;Sub-Templates&lt;/h3&gt;
-
-&lt;p&gt;Sub-templates are exactly templates with the only difference being they
-define another “root” layout/template within their YAML Front Matter.
-This essentially means a template will render inside of another template.&lt;/p&gt;
-
-&lt;h3 id=&quot;includes&quot;&gt;Includes&lt;/h3&gt;
-&lt;p&gt;In Jekyll you can define include files by placing them in the &lt;code&gt;_includes&lt;/code&gt; folder.
-Includes are NOT templates, rather they are just code snippets that get included into templates.
-In this way, you can treat the code inside includes as if it was native to the parent template.&lt;/p&gt;
-
-&lt;p&gt;Any valid template code may be used in includes.&lt;/p&gt;
-
-&lt;h2 id=&quot;using-liquid-for-templating&quot;&gt;Using Liquid for Templating&lt;/h2&gt;
-
-&lt;p&gt;Templating is perhaps the most confusing and frustrating part of Jekyll.
-This is mainly due to the fact that Jekyll templates must use the Liquid Templating Language.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-is-liquid&quot;&gt;What is Liquid?&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/Shopify/liquid&quot;&gt;Liquid&lt;/a&gt; is a secure templating language developed by &lt;a href=&quot;http://shopify.com&quot;&gt;Shopify&lt;/a&gt;.
-Liquid is designed for end-users to be able to execute logic within template files
-without imposing any security risk on the hosting server.&lt;/p&gt;
-
-&lt;p&gt;Jekyll uses Liquid to generate the post content within the final page layout structure and as the primary interface for working with
-your site and post/page data.&lt;/p&gt;
-
-&lt;h3 id=&quot;why-do-we-have-to-use-liquid&quot;&gt;Why Do We Have to Use Liquid?&lt;/h3&gt;
-
-&lt;p&gt;GitHub uses Jekyll to power &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;.
-GitHub cannot afford to run arbitrary code on their servers so they lock developers down via Liquid.&lt;/p&gt;
-
-&lt;h3 id=&quot;liquid-is-not-programmer-friendly&quot;&gt;Liquid is Not Programmer-Friendly.&lt;/h3&gt;
-
-&lt;p&gt;The short story is liquid is not real code and its not intended to execute real code.
-The point being you can’t do jackshit in liquid that hasn’t been allowed explicitly by the implementation.
-What’s more you can only access data-structures that have been explicitly passed to the template.&lt;/p&gt;
-
-&lt;p&gt;In Jekyll’s case it is not possible to alter what is passed to Liquid without hacking the gem or running custom plugins.
-Both of which cannot be supported by GitHub Pages.&lt;/p&gt;
-
-&lt;p&gt;As a programmer - this is very frustrating.&lt;/p&gt;
-
-&lt;p&gt;But rather than look a gift horse in the mouth we are going to
-suck it up and view it as an opportunity to work around limitations and adopt client-side solutions when possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aside&lt;/strong&gt;
-My personal stance is to not invest time trying to hack liquid. It’s really unnecessary
-&lt;em&gt;from a programmer’s&lt;/em&gt; perspective. That is to say if you have the ability to run custom plugins (i.e. run arbitrary ruby code)
-you are better off sticking with ruby. Toward that end I’ve built &lt;a href=&quot;http://github.com/plusjade/mustache-with-jekyll&quot;&gt;Mustache-with-Jekyll&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;static-assets&quot;&gt;Static Assets&lt;/h2&gt;
-
-&lt;p&gt;Static assets are any file in the root or non-underscored subfolders that are not pages.
-That is they have no valid YAML Front Matter and are thus not treated as Jekyll Pages.&lt;/p&gt;
-
-&lt;p&gt;Static assets should be used for images, css, and javascript files.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-jekyll-parses-files&quot;&gt;How Jekyll Parses Files&lt;/h2&gt;
-
-&lt;p&gt;Remember Jekyll is a processing engine. There are two main types of parsing in Jekyll.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Content parsing.&lt;/strong&gt;
-  This is done with textile or markdown.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Template parsing.&lt;/strong&gt;
-This is done with the liquid templating language.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And thus there are two main types of file formats needed for this parsing.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Post and Page files.&lt;/strong&gt;
-All content in Jekyll is either a post or a page so valid posts and pages are parsed with markdown or textile.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Template files.&lt;/strong&gt;
-  These files go in &lt;code&gt;_layouts&lt;/code&gt; folder and contain your blogs &lt;strong&gt;templates&lt;/strong&gt;. They should be made in HTML with the help of Liquid syntax.
-  Since include files are simply injected into templates they are essentially parsed as if they were native to the template.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Arbitrary files and folders.&lt;/strong&gt;
-Files that &lt;em&gt;are not&lt;/em&gt; valid pages are treated as static content and pass through
-Jekyll untouched and reside on your blog in the exact structure and format they originally existed in.&lt;/p&gt;
-
-&lt;h3 id=&quot;formatting-files-for-parsing&quot;&gt;Formatting Files for Parsing.&lt;/h3&gt;
-
-&lt;p&gt;We’ve outlined the need for valid formatting using &lt;strong&gt;YAML Front Matter&lt;/strong&gt;.
-Templates, posts, and pages all need to provide valid YAML Front Matter even if the Matter is empty.
-This is the only way Jekyll knows you want the file processed.&lt;/p&gt;
-
-&lt;p&gt;YAML Front Matter must be prepended to the top of template/post/page files:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;---
-layout: post
-category : pages
-tags : [how-to, jekyll]
----
-
-... contents ...
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Three hyphens on a new line start the Front-Matter block and three hyphens on a new line end the block.
-The data inside the block must be valid YAML.&lt;/p&gt;
-
-&lt;p&gt;Configuration parameters for YAML Front-Matter is outlined here:
-&lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;A comprehensive explanation of YAML Front Matter&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;defining-layouts-for-posts-and-templates-parsing&quot;&gt;Defining Layouts for Posts and Templates Parsing.&lt;/h4&gt;
-
-&lt;p&gt;The &lt;code&gt;layout&lt;/code&gt; parameter in the YAML Front Matter defines the template file for which the given post or template should be injected into.
-If a template file specifies its own layout, it is effectively being used as a &lt;code&gt;sub-template.&lt;/code&gt;
-That is to say loading a post file into a template file that refers to another template file with work in the way you’d expect; as a nested sub-template.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-jekyll-generates-the-final-static-files&quot;&gt;How Jekyll Generates the Final Static Files.&lt;/h2&gt;
-
-&lt;p&gt;Ultimately, Jekyll’s job is to generate a static representation of your website.
-The following is an outline of how that’s done:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jekyll collects data.&lt;/strong&gt;
-  Jekyll scans the posts directory and collects all posts files as post objects. It then scans the layout assets and collects those and finally scans other directories in search of pages.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jekyll computes data.&lt;/strong&gt;
-  Jekyll takes these objects, computes metadata (permalinks, tags, categories, titles, dates) from them and constructs one
-  big &lt;code&gt;site&lt;/code&gt; object that holds all the posts, pages, layouts, and respective metadata.
-  At this stage your site is one big computed ruby object.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jekyll liquifies posts and templates.&lt;/strong&gt;
-  Next jekyll loops through each post file and converts (through markdown or textile) and &lt;strong&gt;liquifies&lt;/strong&gt; the post inside of its respective layout(s).
-  Once the post is parsed and liquified inside the the proper layout structure, the layout itself is “liquified”.
- &lt;strong&gt;Liquification&lt;/strong&gt; is defined as follows: Jekyll initiates a Liquid template, and passes a simpler hash representation of the ruby site object as well as a simpler
-  hash representation of the ruby post object. These simplified data structures are what you have access to in the templates.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jekyll generates output.&lt;/strong&gt;
- Finally the liquid templates are “rendered”, thereby processing any liquid syntax provided in the templates
- and saving the final, static representation of the file.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Notes.&lt;/strong&gt;
-Because Jekyll computes the entire site in one fell swoop, each template is given access to
-a global &lt;code&gt;site&lt;/code&gt; hash that contains useful data. It is this data that you’ll iterate through and format
-using the Liquid tags and filters in order to render it onto a given page.&lt;/p&gt;
-
-&lt;p&gt;Remember, in Jekyll you are an end-user. Your API has only two components:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;The manner in which you setup your directory.&lt;/li&gt;
-  &lt;li&gt;The liquid syntax and variables passed into the liquid templates.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;All the data objects available to you in the templates via Liquid are outlined in the &lt;strong&gt;API Section&lt;/strong&gt; of Jekyll-Bootstrap.
-You can also read the original documentation here: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Template-Data&quot;&gt;https://github.com/mojombo/jekyll/wiki/Template-Data&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;I hope this paints a clearer picture of what Jekyll is doing and why it works the way it does.
-As noted, our main programming constraint is the fact that our API is limited to what is accessible via Liquid and Liquid only.&lt;/p&gt;
-
-&lt;p&gt;Jekyll-bootstrap is intended to provide helper methods and strategies aimed at making it more intuitive and easier to work with Jekyll =)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Thank you&lt;/strong&gt; for reading this far.&lt;/p&gt;
-
-&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
-
-&lt;p&gt;Please take a look at []()
-or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
+ --&gt;
 </content>
  </entry>
  

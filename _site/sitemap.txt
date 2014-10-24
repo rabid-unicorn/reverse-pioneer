@@ -8,4 +8,16 @@ http://reversepioneer.github.io/rss.xml
 http://reversepioneer.github.io/sitemap.txt
 http://reversepioneer.github.io/tags.html
 
-http://reversepioneer.github.io/lessons/2011/12/29/jekyll-introduction
+http://reversepioneer.github.io/chapter%204/2014/10/24/the-great-and-spacious-starter-home
+http://reversepioneer.github.io/chapter%2010/2014/10/24/routine
+http://reversepioneer.github.io/chapter%202/2014/10/24/physiological-reexamination
+http://reversepioneer.github.io/chapter%203/2014/10/24/missing-heaven-by-an-underwear-drawer
+http://reversepioneer.github.io/chapter%209/2014/10/24/marriage
+http://reversepioneer.github.io/chapter%2011/2014/10/24/love
+http://reversepioneer.github.io/chapter%206/2014/10/24/longing-for-ostracizing
+http://reversepioneer.github.io/chapter%207/2014/10/24/exclusively-a-father
+http://reversepioneer.github.io/chapter%201/2014/10/24/everyday-funerals
+http://reversepioneer.github.io/chapter%2012/2014/10/24/dj-in-the-sky
+http://reversepioneer.github.io/chapter%2013/2014/10/24/dear-god
+http://reversepioneer.github.io/chapter%205/2014/10/24/a-good-pair-of-levis
+http://reversepioneer.github.io/introduction/2014/10/23/introduction
