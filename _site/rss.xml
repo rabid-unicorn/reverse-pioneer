@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
-        <link>http://username.github.io</link>
-        <link>http://username.github.io</link>
-        <lastBuildDate>2014-09-12T13:40:09-06:00</lastBuildDate>
-        <pubDate>2014-09-12T13:40:09-06:00</pubDate>
+        <title>Memoir of a Reverse Pioneer</title>
+        <description>Memoir of a Reverse Pioneer - </description>
+        <link>http://reversepioneer.github.io</link>
+        <link>http://reversepioneer.github.io</link>
+        <lastBuildDate>2014-10-24T10:46:58-06:00</lastBuildDate>
+        <pubDate>2014-10-24T10:46:58-06:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>Jekyll Introduction</title>
                 <description>
+&lt;h1 id=&quot;this-is-a-test-to-see-if-i-can-get-this-to-work-on-github-pages&quot;&gt;This is a test to see if I can get this to work on Github Pages&lt;/h1&gt;
+
 &lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
@@ -428,8 +430,8 @@ As noted, our main programming constraint is the fact that our API is limited to
 &lt;p&gt;Please take a look at []()
 or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
 </description>
-                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>http://reversepioneer.github.io/lessons/2011/12/29/jekyll-introduction</link>
+                <guid>http://reversepioneer.github.io/lessons/2011/12/29/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00-07:00</pubDate>
         </item>
 
