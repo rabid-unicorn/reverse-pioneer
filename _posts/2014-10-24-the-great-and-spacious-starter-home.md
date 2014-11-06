@@ -62,10 +62,20 @@ He nodded at me again.
 “Uh, yup,” she laughed shortly, sucking in briskly after each "ha".
 Punctuating each word with a pause, he said, “Well. You are a rare breed here.”
 
-In the lengthy interview he also told us his only rule: do whatever you want in your trailer, just don’t bring it outside. “I don’t care if you knock your husband around, just keep it in the trailer.”
+In the lengthy interview he also told us his only rule: do whatever you want in your trailer, just don’t bring it outside. “I don’t care if you knock your husband around, just keep it in the trailer.” We were comfortable with that rule. Most Mormons are. In order to be a clean glass through which people can see Jesus, Mormons need to keep a clean public appearance. Good grooming, public non-confrontation, and steady employment are all expectations of cultural Mormonism; or putting it simply: "keep it in the trailer".
 
-Fir Grove is my favorite place we've ever lived. I'd be lying if I said it wasn't a stressful first week. It's quite a shock to choose to live in that level of poverty. Lots of drug deals observed, lots of thefts seen. Even with the crime, the three strip clubs across the street, and the mangy dogs that neighborhood quickly became my favorite part of Portland. I feel entirely lucky I got to see first hand such a beautifully depressed part of this country. Great people who care and watch out for those who are close to them.
+Fir Grove is my favorite place we've ever lived, though the first week was less than ideal. Our just-finished-college style poor looked like the height of luxury in this new context. It was their that I learned that the wealthiest choice you can make is to choose poverty. 
 
-Two of the park’s little ones spent a lot of time playing with Joshua, who spent a lot of time that summer laying under one of the only two firs that made up Fir Grove. With the shame of not being able to “keep it in the trailer”, their dad came screaming one day that they were not to leave while he was giving a tattoo.
+Lots of drug deals observed, lots of thefts seen. Even with the crime, the three strip clubs across the street, and the mangy homeless dogs, that neighborhood became my favorite part of Portland. I feel entirely lucky I got to experience the subtle beauty of a community in depression. Offers of protection, free beer and food were near constant. They were all great people who cared for us and watched out for those they invited in.
 
-Nobody really ever did keep it in the trailer. Not the man living two feet behind us, whose 2am shouting to a prostitute he biblically referred to as, “his sister,” saw him shipped out by noon the next day. Not the woman whose turrets (we could only pray) caused her to scream all bloody murder each night at around 10. And not Claire and I, whose insatiable frustrations with being poor, lonely, and stuck living in a perpetually broken trailer lead to many fights, and even me hastily backing our truck (the only someone nice thing we owned) into a fire hydrant.
+<!-- A couple of the few kids in the park spent a lot of time playing with Joshua, who spent a lot of time that summer laying under one of the only two firs that made up Fir Grove. With the shame of not being able to “keep it in the trailer”, their dad came screaming one day that they were not to leave while he was giving a tattoo. -->
+
+Nobody really ever did keep it in the trailer. Certainly not the man directly behind us, whose 2am shouting at a prostitute (he affectionatly referred to as, “his sister,”) got him evicted by noon the next day. Not the woman whose turrets (we could only pray) caused her to scream all bloody murder each night at around 10. And not Claire and I, whose insatiable frustrations with being poor, lonely, and stuck living in a perpetually broken trailer lead to many fights. One fight so bad that the blood in my face kept me from remembering not to hastily back our truck (the only someone nice thing we owned) into a fire hydrant.
+
+This is almost certainly why Mormonism thrives in the sprawl-ed suburbs of the West where there are a great many rooms and spacious fields whereby we can hide our problems from our neighbors. The trailer was small enough to forget our commercial wowes, but not big enough to remember our marital vows.
+
+----
+
+Eventually we landed in Utah, and I was pretty vocal about needing space. And though our belongings only filled a small corner of the new 1,200 sq/ft apartment we moved into, I remained gasping for air from the year long marathon in 120 sq/ft.
+
+A year after that I bought a house on a .33 acre lot, with high ceilings and a 1000 sq/ft garage. That was when Claire left. Me to my great and spacious, and her to a Yurt. Each walking in oppossite direction, in search of the gospel we'd been promised.
