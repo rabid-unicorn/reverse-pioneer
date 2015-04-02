@@ -11,7 +11,7 @@ After months of shoving aside heaps of greying garments, I finally bagged up the
 
 I scurried down the stairs and unceremoniously tossed the knotted closed grocery bag between our unused bike trailer and my rather new looking skateboard. Like once proud champions, now tired from the fight, the three slumped against each other for support. 
 
-No joke, in there day they really were champions. For each my heart still holds a little bit of guilt. A little guilt for each member of the basement catalog of lost ideals. Before I turn and shut the door, my eyes pause on the heap. With each step up the stairs my heart aches to be able to do kickflips while wearing garments for the rest of my life.
+In their day they really were champions. For each my heart still holds a little bit of guilt. A little guilt for each member of the basement catalog of lost ideals. Before I turn and shut the door, my eyes pause on the heap. With each step up the stairs my heart aches to be able to do kickflips while wearing garments for the rest of my life.
 
 Here I am wondering if I’ll miss heaven by an underwear drawer. Even so, it’s not a bad way to go. Surely God is not perfect, and superficial like the rest of us, he would look on the heart in every judgement case but mine. For me, he’d simply look at the way my shirt hangs on my frame and know I wasn’t wearing the cut of the right cloth.
 

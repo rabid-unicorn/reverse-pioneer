@@ -17,11 +17,11 @@ I don’t know what I’m doing with my life, and I’m not sure if leaving morm
 
 I originally set out to write a journalistic account of my pilgrimage away from institutionalized Mormonism. But I quickly found trouble understanding how truth, all by itself, could be enough to tell this story.
 
-I set out to tell the truth. I was into the truth then. But why should I bother with truth when there are so many feelings to be felt? So I guess this is a fiction. Afterall, isn’t it all fiction by perspective? Doesn’t it only matter if something is felt and in being felt becoming real? To quote the psychodelic, “I feel therefore I am.”
+I set out to tell the truth. I was into the truth back then. But why should I bother with truth when there are so many feelings to be felt? So I guess this is an account of fiction shrouded in truth. Kind of like me: a Secular Mormon. Afterall, isn’t it all fiction by perspective? Doesn’t it only matter if something is felt and in being felt so becomes real? To quote the psychodelic, “I feel therefore I am.”
 
 So here’s what is important: 
 
-I never wanted to leave Mormonism, and I have never felt like it is wrong.
+I never wanted to leave Mormonism.
 
 <!-- {% capture text %}...
 <body>
