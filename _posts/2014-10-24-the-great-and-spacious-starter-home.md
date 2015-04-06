@@ -6,25 +6,24 @@ tagline:
 tags : []
 ---
 {% include JB/setup %}
-It became official while closing on a house. As it turns otu, you can't buy a house unless your spouse signs the title. Jessica Christensen, the loan officer, was the first person we told that we were getting divorced.
+
+It became official while closing on a house. As it turns out, you can't buy a house unless your spouse signs the title. Jessica Christensen, the loan officer, was the first person we told that we were separating.
 
 -------
 
 In 2012 Claire and I made to decision to buy a 1966 26' Airstream Overlander. It was a pretty romantic concept, but it was also our religion.
 
-The tracts on Jesus Christ has just as much weight in my mind as the ones on self sustained and debt free living. The warnings of the physical fears and famines held much more weight than those of the spirit.
+The tracts on Jesus Christ have had just as much weight in my mind as the ones on self sustained and debt free living. Physical fears and famines even held a greater urgency than the spiritual ones.
 
-My goals of living in a Silver Bullet probably had more to do with MTV than it did prophetic counsel. Still the trailer was teaching me how to be prepared without over-abundance. The trailer was helping me to understand God.
+For a long time I had wanted to live in a Silver Bullet. This probably had more to do with MTV than it did with prophetic counsel, still the trailer was teaching me how to be prepared without having over-abundance. The trailer was helping me to understand God.
 
-So at 23 years old, we moved from our great and spacious basement apartment in the low income part of Provo to embarked on our holy quest of stripping ourselves of the weight of commercialism. I earnestly believed that doing so would help me understand why I felt like an outsider among my people, and bring me peace.
+So at 23 years old, we moved from our great and spacious basement apartment in the low income part of Provo to embarked on our holy quest of stripping ourselves of commercialism. I earnestly believed that doing so would help me understand why I felt like an outsider among my people, and would bring me peace.
 
-Still with this new doctrine there was no bible rely on. And while I have many gifts the gift of knowledge is not one of them. None of it was easy—I was relying entirely on what I believed to be true.
-
-We sold our clothes, musical instruments and recording equipment, and leftover wedding gift crock pots. There was a little consolation in getting one step closer to that peace I felt owed. And a decent baptism it was into the community of minimalism. I felt a little proud, and it was hard not to ostracize those who were not baptized as I was. My wayward grandmother pressed us, “what will you do with your wedding gifts?” I couldn't help but pondering on the state of her soul.
+We sold our clothes, paints and canvases, musical instruments, recording equipment, and leftover wedding gift crock pots. It was hard, but there was a little consolation in getting one step closer to that peace I felt owed. And a decent baptism it was into the community of minimalism. I felt a little proud, and it was hard not to ostracize those who were not baptized as I was. My wayward grandmother pressed us, “what will you do with your wedding gifts?”
 
 -------
 
-Girls would often give Claire uncomfortable looks when she showed them her clay engagement ring (valued at about twenty dollars). We weren't traditional in a lot of ways, but we were fully there where we thought it counted. Still you don't have to be on the outside to feel like an outsider. Not so deep down, this caused a discomfort that made understanding spiritual and community signals confusing.
+Girls would often give Claire uncomfortable looks when she showed them her clay engagement ring (valued at about twenty dollars). We weren't traditional in a lot of ways, but we were fully there where we thought it counted. But you don't have to be on the outside to feel like an outsider. Not so deep down, this caused a discomfort that made understanding spiritual and community signals confusing. Many messages felt mixed, and things were beginning to feel a lot more gray.
 
 Around that time we visited some family friends to announce our engagement. They had met Claire many times, but I probably wouldn’t say they were comfortable with each other. Still, when she held out her hand, I vividly remember the way the father tilted his head while dropping his tone to mutter, “interesting.”
 
