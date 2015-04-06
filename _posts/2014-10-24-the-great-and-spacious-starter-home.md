@@ -6,84 +6,88 @@ tagline:
 tags : []
 ---
 {% include JB/setup %}
-It became official while closing on our first house. And Jessica Christensen, our loan officer, was the first person we told that we were getting divorced.
-
-A year into our marriage, my wife and I pursued a long standing dream of mine to live in an old Airstream trailer. Beyond simple romantic idealism, this was also my religion.
-
-Mormons have just as many tracts on Jesus Christ as they do on self sustained, within means, and debt free living. In the semi-annual conference that the church holds, there are warnings of famine and fear to come. It's made clear in those heavily respected meetings that although we should be industrius and prepared for those famines to come, we should stay away from "great and spacious building[s]". We are to walk the line between preparation and overabundance. 
-
-Self sustained living is a big deal to Mormons. But as a pubesent with no wide scope spacial reasoning, my romantic goals of living on the road in a Silver Bullet probably had more to do with MTV than it did spiritual insight. Nevertheless, at the time it served its purposes as a convenient way to understand God.
+It became official while closing on a house. As it turns otu, you can't buy a house unless your spouse signs the title. Jessica Christensen, the loan officer, was the first person we told that we were getting divorced.
 
 -------
 
-When Claire and I were newly engaged, there were many uncomfortable looks girls would give her when she showed off her twenty dollar clay engagement ring. We weren't traditional in a lot of ways, so it was easy to just shrug it off. Hell, we were trying to be proud about living within our means, and never-the-minding what the haters had to say.
+In 2012 Claire and I made to decision to buy a 1966 26' Airstream Overlander. It was a pretty romantic concept, but it was also our religion.
 
-Around that time we visited some family friends to announce our engagement. They had met Claire many times, but I wouldn’t call her relationship with them a completely comfortable one. Still, when she held out her hand, I vividly remember the way the father tilted his head, lifted one eyebrow, and dropped his tone to drawl out, “interesting.”
+The tracts on Jesus Christ has just as much weight in my mind as the ones on self sustained and debt free living. The warnings of the physical fears and famines held much more weight than those of the spirit.
+
+My goals of living in a Silver Bullet probably had more to do with MTV than it did prophetic counsel. Still the trailer was teaching me how to be prepared without over-abundance. The trailer was helping me to understand God.
+
+So at 23 years old, we moved from our great and spacious basement apartment in the low income part of Provo to embarked on our holy quest of stripping ourselves of the weight of commercialism. I earnestly believed that doing so would help me understand why I felt like an outsider among my people, and bring me peace.
+
+Still with this new doctrine there was no bible rely on. And while I have many gifts the gift of knowledge is not one of them. None of it was easy—I was relying entirely on what I believed to be true.
+
+We sold our clothes, musical instruments and recording equipment, and leftover wedding gift crock pots. There was a little consolation in getting one step closer to that peace I felt owed. And a decent baptism it was into the community of minimalism. I felt a little proud, and it was hard not to ostracize those who were not baptized as I was. My wayward grandmother pressed us, “what will you do with your wedding gifts?” I couldn't help but pondering on the state of her soul.
 
 -------
 
-At 24 years old, then living in a great and spacious basement apartment in the low income part of Provo, UT, we embarked on our final holy quest: stripping ourselves of the damnable shadow cast by commercialism. We earnestly believed commercialism and living out of our means was keeping us from happiness and peace.
+Girls would often give Claire uncomfortable looks when she showed them her clay engagement ring (valued at about twenty dollars). We weren't traditional in a lot of ways, but we were fully there where we thought it counted. Still you don't have to be on the outside to feel like an outsider. Not so deep down, this caused a discomfort that made understanding spiritual and community signals confusing.
 
-We held a yard sale and made a cool two-hundred bucks for a lifetime’s worth of clothes, guitar cables, and leftover wedding gift crock pots. What we pawned off that day felt like social collateral worth sacraficing for the peace we felt owed to us. Cleansing myself of those dreadful possessions felt better than I'd ever felt previously from repenting of any cannonical sins.
+Around that time we visited some family friends to announce our engagement. They had met Claire many times, but I probably wouldn’t say they were comfortable with each other. Still, when she held out her hand, I vividly remember the way the father tilted his head while dropping his tone to mutter, “interesting.”
 
-Still my wayward grandmother pressed us with, “what will you do with your wedding gifts?” I couldn't help but wondering how she was doing spiritually for asking.
+-------
 
------
+After a year of restoring and repairing, finally graduating from BYU, and quitting our jobs, we hit the road for Portland. I had been offered an exciting internship there, so there was much to be excited about. We felt truly free for the first time in our lives.
 
-After a year of restoring and repairing, testing and boondocking, we hit the road for Portland in a 1966 Airstream Overlander. We took it easy, being truly free for the first time in our lives. We would hold our arms wide for the next year, faithfully waiting for that peace to wash over us.
+Still at the time Claire was suffering with extreme depression. Despite many low moments it felt like if we were faithful in holding our arms wide the fruit of our labor would fix many things.
 
-But Claire had a hard time with the move. About 30 miles before arriving in Portland we pulled off the freeway, near the Columbia River, to sleep for the night. In the process Claire found herself up a dead end without the space for all 47 feet of us to turn around.
+About 30 miles before arriving in Portland we pulled off the freeway, near the Columbia River, to sleep for the night. In the process Claire found herself up a dead end without the space for our forty-seven foot rig to turn around.
 
-In tears she jumped from the truck and sat on the ground, running her hands through her hair. She performed a rain dance like this one every Sunday night while in college, before each plane trip to visit her parents, and generally whenever she had driven the trailer into dead ends on private property. 
+She jumped from the truck and sat on the ground, just feet from the open door, running her hands through her hair. Earlier in the day a storm had torn our roof vent, a window, and an aluminum panel from the trailer. And although this type of anxiety was not unexpected, it was becoming more and more common (the opposite of our prediction). The look in her eyes matched how she looked each day after work, each night before school, and each Sunday before church. They screamed. They screamed that I should put the truck in reverse and not stop until we were back in Utah.
 
-The look in her eyes screamed that I should put the truck in reverse and not stop until we were back in Utah. After a few minutes Claire climbed back into the truck. I put my hand on her leg and gently tightened my grasp as I said to her softly, “growth is no fun. We'll figure this out.”
+After the sun had set Claire climbed back into the truck. I put my hand on her leg and gently tightened my grasp as I said to her softly, “you got this. You'll figure this out.”
 
 She didn't speak, but her ten mile stare suggested, “this isn't what I signed up for.” 
 
------
+-------
 
-Charles, frowning, nodded to a small brown plaque perched on the furthest edge of his desk which read, "Resident Manager". The obese, gay, machismo manager of a trailer park on Killingsworth street was sitting across from us in the front room of the double wide trailer he lived in with his partner 21-years-the-younger.
-
-His perfectly parted high and tight haircut stood heroically against the wind coming from three rotary fans on full blast.
-
-Our conversation followed:
+Charles was the sixty-year-old obese, gay, machismo manager of a trailer park on Killingsworth street, just six miles from my internship. He was sitting across from us in the front room of the double wide trailer and while helping us fill out the necessary paperwork to live in his poverty stricken macro city. His perfectly parted pompadour stood heroically against the three rotary fans that surrounded him.
 
 “So you want to move in. You and your,” he paused from filling out paperwork, pointing to me with his elbow.
+
 “Husband,” Claire said quickly.
-“Husband? You’re really married, for real,” Charles continued to frown through his questions.
+
+“Husband? You’re really married, for real?” Charles frowned through his questions.
+
 “Uh-huh.”
-“Well. Lots-a kids roaming round the park, but your spot’ll be hitched on a solid slab of concrete. No grass, not much fun for little ones.”
+
+“Well. Lots-a kids roaming round the park, but your spot’ll be hitched on a solid slab of concrete. No grass, gets pretty hot and isn't much fun for little ones.”
+
 “We don’t have any kids.”
+
 “How old are you?”
+
 “Twenty-four.”
+
 He turned to me.
+
 “Twenty-five.”
-“You’re twenty-god-damn-years-old and you didn’t get married because you got pregnant?”
-“Uh, yup,” Claire laughed shortly, sucking in briskly after each "ha".
-Punctuating each word with a pause, he said, “Well. You are a rare breed here.”
 
-In the brief interview he told us his only rule: go about your business as you please, just don’t bring it outside. “I don’t care if you knock your husband around, just keep it in the trailer.”
+“You’re twenty-god-damn-years-old and you didn’t get married because you got pregnant? Well. You are a rare breed here.”
 
-Nobody really ever did keep it in the trailer. Certainly not the man directly behind us, whose 2am shouting at a prostitute (he affectionatly referred to as, “his sister,”) got him evicted by noon the next day. Not the woman whose turrets (we could only pray) caused her to scream all bloody murder each night at around midnight. And not Claire and I, whose insatiable frustrations with being poor, lonely, and stuck living in a perpetually broken trailer lead to many fights. One fight was so bad that the blood in my face kept me from remembering a fire hydrant before I hastily backed our truck into it.
+And although I have a hard shell from a lifetime of peculiarity, I couldn't help but feel sad that perhaps this would be another place where we would be outsiders.
 
-This is almost certainly why Mormonism thrives in the sprawl-ed suburbs of the West where there are a great many rooms and spacious fields whereby we can hide our problems from our neighbors. The trailer was small enough to forget our commercial wowes, but not big enough to remember our marital vows.
+In that brief interview he told us his only rule: go about your business as you please, just don’t bring it outside. “I don’t care if you knock your husband around, just keep it in the trailer.”
 
-<!-- Most Mormons are comfortable with that rule. In order to be a clean glass through which people can see Jesus, Mormons need to keep a clean public appearance. Good grooming, public non-confrontation, and steady employment are all expectations of cultural Mormonism; or putting it simply: "keep it in the trailer". 
+Though, nobody really ever did keep it in the trailer. Certainly not the man directly behind us, whose 2am shouting at a prostitute seemed to go relatively unnoticed against the backdrop of the woman to our left whose turrets (we could only pray) caused her to scream unmentionables like clockwork from 11PM to 3AM. And though strange those people were, Claire and I found home in dropping our reservations and fighting the pains we were feeling in being far from home, poor, lonely, and stuck living in a perpetually broken trailer. 
 
-Fir Grove , though the first week was less than ideal. 
--->
-----
+I hastily backed our truck into a fire hydrant during one particularly memorable fight.
 
-Fir Grove is still one of my favorite places. Even with the crime—the drug deals and the thefts, the three strip clubs across the street, and the mangy homeless dogs—that neighborhood became my home. I got to see the subtle beauties of a community in depression. Offers of protection, free beer and food were near constant. They were good people who cared and watched out for those they invited in. 
+I can only imagine this is why Mormonism thrives in the sprawl-ed suburbs of the West where there are a great many rooms and spacious fields whereby we can all the easier "keep it in the trailer".
 
-They were the glimmer of gold on my road to El Dorado. They were a humble, who didn't have the ability to let possessions burden them. But still one thing troubled me: they didn't have peace. I was owed peace for my sacrice.
+Even with the crime—the drug deals and the thefts, the three strip clubs across the street, and the mangy homeless dogs—that neighborhood became my home. I got to see the subtle beauties of a community in depression. They were good people who cared about us—and let us know we belonged.
 
-It was there that I learned that the wealthiest choice you can make is to choose poverty. In Fir Grove, our just-finished-college style poor looked like the height of luxury. It was there that I questioned if I could ever live a self sustained, within means, and peaceful life.
+They were the glimmer of gold on my road to El Dorado. They were humble, and they didn't have the ability to let possessions burden them. Still they didn't have peace.
 
-<!-- A couple of the few kids in the park spent a lot of time playing with Joshua, who spent a lot of time that summer laying under one of the only two firs that made up Fir Grove. With the shame of not being able to “keep it in the trailer”, their dad came screaming one day that they were not to leave while he was giving a tattoo. -->
+-------
 
-----
+Our journey continued across the country. A year later, we stumbled back to Utah. I was certain that the experiment had failed, and was pretty vocal about needing space. The two year long marathon in 120 sq/ft had left me gasping for space. But Claire, the long distance runner that she is, wanted to keep running. 
 
-A year later, hearts broken and heads humbled, we stumbled back to Utah. I was pretty vocal about needing space. And though our now meager belongings only filled a small corner of the new 1,200 sq/ft apartment we moved into, I remained gasping for air from the year long marathon in 120 sq/ft.
+I bought a small house on a large lot with 10 large fruit trees, high ceilings ,and a garage the size of four Airstreams. This was when Claire left. If you don't count brief interactions about taxes, we haven't talked since then. And although I know her better than anyone else, in a way we've become outsiders to each other. We had started a religion, and I had abandoned the fold.
 
-A good job, many more fights, and nine months later I bought a house on a .33 acre lot, with high ceilings and a garage the size of four Airstreams. That was also when Claire left. The house didn't cause the seperation, but it did demark it. I to my great and spacious, and her to a yurt. Each walking in opposite directions, in search of the gospel we'd been promised.
+So I to my great and spacious, and her to even simpler living. Each walking in opposite directions, in search of the gospel we'd been promised.
+
+
