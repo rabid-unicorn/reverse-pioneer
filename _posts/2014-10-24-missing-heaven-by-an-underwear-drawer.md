@@ -11,23 +11,51 @@ I stopped wearing garments in the parking lot of a Sams Club in Cincinatti, Ohio
 
 ------
 
-In July of 2014 I decided to stop shoving aside heaps of light grey holy garments to get to my black secular garments. I too little faith to believe I was doing anything righteous by keeping them among my wardrobe, but I had just enough belief to not throw them out that day, but . So I bagged up the mess and took them down to the storage space beneath the house.
+In July of 2014 I decided to stop shoving aside heaps of holy textile to get to my secular garments. I no longer believed I was righteous for keeping them among my wardrobe.
 
-I unceremoniously tossed them in the far corner near the water heater.
-
-------
-
-Big Bend National Park is in the middle of nowhere. It's about three hours drive from a gas station. But it can seem a lot longer when you're fighting the entire drive.
-
-Claire succumbed too readily to my opinions. Often, ironically, that was what we fought about. I was used to the tactless arguments I had been raised with. Claire
+I bagged up the light grey mess and unceremoniously tossed them in the far corner near the water heater in the storage space beneath the house.
 
 ------
 
-Claire was standing, hunched, in the small door frame of the Airstream. I could see her emotions from accross the parking lot. Everything between us was palpable then.
+Big Bend National Park is in the middle of nowhere. It's about three hours drive from a gas station. But it can seem a lot longer when you're fighting the entire drive. All things are relative to the observer. I was an observer who was seeing things a little slower than they actually were.
+
+Big Bend is along the border of Texas and Mexico. It's one of the most secluded places I've ever been. When I was in that open, secluded place, I started to understand the insignificance of my life, and the significance of the universe. While we were there I was an observer who was seeing the universe on an unconventional scale.
+
+Each year, during fall and spring break, the observatory an hour North of big bend holds a star party. I'm tickled now by the intersection of those two opposite universal scales: a telescope is the closest humanity has gotten to understanding its standing in the grand scheme and a college party is the closest humanity has gotten to understanding its standing with girls named Hillary, Nicole, and Rebecca.
+
+The great paradox of relativity is that the most familiar perspective is the one given the least power, while the most familiar perspective is also the one that is most important to the one observing it. The view I had of the stars that night was nothing new, and a photo of it would mean nothing to science at large, but in that moment it was the most significant perspective I had ever been given of the universe. When we look up at the familiar stars, we often forget what they mean—their familiarity is what makes them foreign.
+
+The great view of the stars we got from digital telescopes at the observatory blah blah blah were new, more detailed, and certainly more scientifically important but all together sentimentally meaningless. That was not my space, it didn't live on my scale, and it would not speak to me.
+
+The same is so with my skin. The dandruff I get each winter, the sunburns in the spring, and softness of my hands—this is the skin I know. But show me the cells under a microscope and I will see nothing in it that is mine. The cells that make up my body are not mine, for they don't live on the scale by which I observe life.
+
+That November day at Big Bend, Claire and I were living on different scales. Often, ironically, that was what we fought about. I was used to the tactless arguments I had been raised with. I wanted to break down the details and build them up from scratch. Claire wanted to plan out a lifetime. I was the recepies, Claire was the cookbook. The book doesn't see itself as a compilation of recipies any more than I consider myself a compilation of cells.
+
+------
+
+Claire had a pretty interteresting story arch until she met me and I attempted to iron out of the facinating textures. Third of three girls from a family of accomplished scientists, she was: a fenominal athlete, a creative and passionate illustrator, a brilliant student (scoring a 32 on the ACT), and awarded a full ride scholarship to attend BYU. All of that slipped that first semester at BYU.
+
+"I would fantasize about walking onto the Women's soccer team while sleeping through my art classes."
+
+Anson Dorrance, a mormon, Women's Soccer Coach at NCU known for having one of the most successful coaching records in the history of athletics was her hero. Claire appreciated his focus on hustle and discipline. Anson's secret, she learned from The Man Watching, was in how he picked his line-up using a rough count of how many times players had sprinted for a take. He had a whole team of assistants quantifying hustle.
+
+"I was devistated when I realized that I was no longer the smartest student in the class."
+
+By the time I met Claire she was on her fifth year as a undergrad with no near end in sight. On paper we had a lot in common: running, music, art, and religion. But in practice I was a 
+
+------
+
+Andrew was our first interview for a eighteen month long interview project named The Passionately Project. We started the project so that we could figure out how to be satisfied.
+
+He sat on a plush couch with his sockless legs crossed, his all beige outfit cuffed at every opening, his curly hair stolen from a beach bum. I was not confident he remembered he was being filmed for the interview.
+
+------
+
+Claire was standing, hunched, in the small door frame of the Airstream. I could see her emotions from accross the parking lot. At that time everything between us was palpable. 
 
 "You bought them then," she stated, arm jutting squarely into her hip.
 
-"I'll just try them for a bit and see how it feels," I said, unable to pull the Sam's Club sized pack of Haynes classics out from the bag while she was watching.
+"I'll just try them for a bit and see how it feels," I said, unable to pull the Sam's Club sized pack of Haynes classics out from the bag while she was watching. I was embarrassed at my decision.
 
 ------
 
