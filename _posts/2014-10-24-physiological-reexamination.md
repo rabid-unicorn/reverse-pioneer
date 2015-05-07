@@ -15,8 +15,14 @@ And I was a democrat—God only knows why.
 
 Be that as it may, I felt like I was using my small but strong moral compass to make the decisions that God needed me to (vote for Obama, use properly marked road crossings, and keep the toilet bowl clean). Relationships be damned, I was on the Lord’s mission. Anyone unable to understand this paragraph can please see also: Prayer, Personal Nature Of.
 
-I make no claims to knowing God, but I do consider myself someone who understands the Guy. I’ve spent nearly my entire life trying to anyway. Most members of most religions who talk about knowing God a lot or a little are talking about the esoteric secrets they do or do not know within their sect. In that way, I know Mormon God like the back of a hand being held up to perform a baptism. But in the less literal sense, I have tried throughout my life to speak with God and keep a constant dialog with him in my heart—God only knows why. 
+I was earnest and God surely knew I was sincere. Fingers crossed that sincerety counts.
 
-Surely the heart is a lousy communication device, but as far as I know its all I’ve got. Other than communicating with the Almighty, my heart has no qualifications as my spokesperson.
+I make no claims to knowing God, but I do consider myself someone who understands the Guy. Anyway, I’ve spent nearly my entire life trying. Most who talk about knowing God a lot or a little are talking about the secrets they do or do not know within their sect. And if we are talking in that way, I know Mormon God like the back of a hand being held up to perform a baptism. 
 
-Unqualified though it may be, I’m proud of where it has gotten me in life.
+But even if we are not talking that way—if we are talking about knowing God as a man—I have tried to speak with that Man and keep a constant dialog with Him in my heart throughout my life. God only knows why. 
+
+The heart sure is a lousy communicator, but as far as I've been told its all I’ve got. 
+
+<!-- Other than communicating with the Almighty, my heart has no qualifications as my spokesperson. -->
+
+Unqualified though it may be, I’m proud of it. 
