@@ -57,5 +57,5 @@ April 25 at 1:23am
 
 > Spence Thompson: Heavenly Father, we first Thank Thee for all that we receive each of us who at this time pray to Thee concerning our brother Clay. We know that Thou art mindful of even they the least of thy Kingdom, and know without question Thy relationship with Thy Son is one as bright as any Sun, that borrows Thy light. We know by proof of prayer Clay's influence in this world, that Thou oversees...we know his belief is unwavering in Thee and serves Thee continually unfailing.
 
-I can't help but think to ask: One more song, one more song. It’s a strange desperation, being at the DJ's mercy.
+I can't help but want to gather my friends and to shout in unison: one more song, one more song. It’s a strange desperation, being at the Our Father Lord DJ in the Sky's mercy.
 
