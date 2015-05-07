@@ -9,9 +9,9 @@ tags : []
 
 The man upstairs has a record collection as diverse and eclectic as any you've ever seen. Sure, when he plays shows, he mostly just samples the stuff you've already heard, and he doesn't take requests, but if you get a group of your friends together and shout loud enough he might just satiate you.
 
-Remember when alternative bands started adding disk jokeys in the early two-thousands? It's kind of hard to forget the more than excitable dude standing in the back triggering poorly synthesized disk scratch [samples at his whim](https://www.youtube.com/watch?v=ilqGBvMP1-M). Well, degrading though it may seem, God is your in house DJ. He's pretty good at remixing your average, albeit alternative, life into something special (when it was the late 90s anyway).
+The DJ of this rave called life is interested in you having a good time with your friends, but he's also a pretty big fan of freestyling, remixing, scratching, at the expense of the crowd.
 
-I like to think of him as the inventor of the rap-rock crossover (could Linkin Park have really thought it up on their own?). He's also the guy who started taking old Mary Ford vinyls and speeding them up so they sound like classic Bollywood and are pretty easy to rap over. In addition, Our Lord scratches vinyl to censure out all those curses He knows you'll try to sneak in. Which is to say: he does the radio edit.
+He's the inventor of the rap-rock crossover. He's also the guy who started taking old Mary Ford records and speeding them up so they sound Bollywood enough to serve as the chorus of your hip hop single. Some will say Our Father Lord DJ in the Sky scratches vinyl to censure out all those curses, but I've been on the dance floor to see his ego in it all. He doesn't just want to create the dance floor, he wants to write the hits. He wants to make your hips and give them the music that makes them shake.
 
 -----------------
 
