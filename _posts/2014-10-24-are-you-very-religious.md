@@ -7,7 +7,7 @@ tags : []
 ---
 {% include JB/setup %}
 
-I quickly surveyed the room and found the cutest girl in the room.
+I quickly surveyed the room and found the cutest girl.
 
 "Do you mind if I sit here," I shouted while swinging my ass down in the spot next to her before she could prepare a response.
 
@@ -88,12 +88,12 @@ Please only contact me through legal means.
 
 ------
 
-This is me. Reaching out to the info that I have. Haha (12:50 AM)
+> This is me. Reaching out to the info that I have. Haha (12:50 AM)
 
-Let's hang out again. (12:51 AM)
+> Let's hang out again. (12:51 AM)
 
-New York gets kind of bland. 👎 (1:03 AM)
+> New York gets kind of bland. 👎 (1:03 AM)
 
-And I feel like we have a significant amount of things in common. (1:05 AM)
+> And I feel like we have a significant amount of things in common. (1:05 AM)
 
-Anyway, here's my number (1:08 AM)
+> Anyway, here's my number (1:08 AM)
