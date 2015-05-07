@@ -29,20 +29,21 @@ His injury would have never happened if that DJ hadn’t played dubstep in the f
 
 I plan on an adult indoor soccer league in the winter that is no stranger to injury. Adult men, world round, crave the opportunity to punch another man in the face. Soccer is no exception.   Suppressed jizzum likely plays an equal role here. During an 11 o'clock at night game a rather agressive opposing forward drilled his knee into our keeper's face, breaking it into one hundred pieces of bone and leaving him moaning on the ground both hands held to his bloody face.
 
-> Trint Laws Everyone please say a quick prayer for Clay Winder. He got hurt pretty badly tonight and is going in for emergency surgery.
-> April 25 at 1:23am
-> > Alicia Terry: What happened ? I hope he is ok.
-> > Trint Laws: He got kicked in the face playing soccer. Broken eye socket, blood and air pockets on the brain and possible vision problems from bone fragments.
-> > Jessica Villeneuve: I don't know him but I'll pray for him.
-> > Melissa Murdock Downs Prayers for Clay!!!
-> > Trint Laws: The doctors were amazed that this level of damage could have been done by human to human contact. They said typically this type of damage would only be seen from someone riding a motorcycle at 100mph.
-> > Bryant Arnold: Sending out my love and prayers.
-> > Kris Thorne: You have a lot of people praying for you Clay Winder. Speedy recovery.
-> > Steffany Lloyd: The Dr said there is a less than 1% chance that Clay will get his eye sight back in his right eye. He's going to give him another 12 to 24 hours to watch it and see if that changes. We could really use some faith and miracle prayers these next 12-24 hours. Thanks everyone!
-> > Cavan Helps: We're praying for you, Clay!
-> > Spence Thompson: The Lord is the one that pulls miracles off. Clay is just extremely deserving.
-> > Steffany Lloyd: Happy update! The Dr. just came and said Clay must have some strong connections with deity because he has got blood flow back in the nerve of his eye which he said should have been dead from the bones pinching off the blood supply on that nerve for so long.
-> > Spence Thompson: Heavenly Father, we first Thank Thee for all that we receive each of us who at this time pray to Thee concerning our brother Clay. We know that Thou art mindful of even they the least of thy Kingdom, and know without question Thy relationship with Thy Son is one as bright as any Sun, that borrows Thy light. We know by proof of prayer Clay's influence in this world, that Thou oversees...we know his belief is unwavering in Thee and serves Thee continually unfailing.
+April 25 at 1:23am
+
+> Trint Laws: Everyone please say a quick prayer for Clay Winder. He got hurt pretty badly tonight and is going in for emergency surgery.
+> Alicia Terry: What happened ? I hope he is ok.
+> Trint Laws: He got kicked in the face playing soccer. Broken eye socket, blood and air pockets on the brain and possible vision problems from bone fragments.
+> Jessica Villeneuve: I don't know him but I'll pray for him.
+> Melissa Murdock Downs Prayers for Clay!!!
+> Trint Laws: The doctors were amazed that this level of damage could have been done by human to human contact. They said typically this type of damage would only be seen from someone riding a motorcycle at 100mph.
+> Bryant Arnold: Sending out my love and prayers.
+> Kris Thorne: You have a lot of people praying for you Clay Winder. Speedy recovery.
+> Steffany Lloyd: The Dr said there is a less than 1% chance that Clay will get his eye sight back in his right eye. He's going to give him another 12 to 24 hours to watch it and see if that changes. We could really use some faith and miracle prayers these next 12-24 hours. Thanks everyone!
+> Cavan Helps: We're praying for you, Clay!
+> Spence Thompson: The Lord is the one that pulls miracles off. Clay is just extremely deserving.
+> Steffany Lloyd: Happy update! The Dr. just came and said Clay must have some strong connections with deity because he has got blood flow back in the nerve of his eye which he said should have been dead from the bones pinching off the blood supply on that nerve for so long.
+> Spence Thompson: Heavenly Father, we first Thank Thee for all that we receive each of us who at this time pray to Thee concerning our brother Clay. We know that Thou art mindful of even they the least of thy Kingdom, and know without question Thy relationship with Thy Son is one as bright as any Sun, that borrows Thy light. We know by proof of prayer Clay's influence in this world, that Thou oversees...we know his belief is unwavering in Thee and serves Thee continually unfailing.
 
 I can't help but think to ask: One more song, one more song. It’s a strange desperation, being at the DJ's mercy.
 
