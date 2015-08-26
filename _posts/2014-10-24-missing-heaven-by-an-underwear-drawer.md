@@ -47,7 +47,41 @@ By the time I met Claire she was on her fifth year as a undergrad with no near e
 
 Andrew was our first interview for a eighteen month long interview project named The Passionately Project. We started the project so that we could figure out how to be satisfied.
 
-He sat on a plush couch with his sockless legs crossed, his all beige outfit cuffed at every opening, his curly hair stolen from a beach bum. I was not confident he remembered he was being filmed for the interview.
+He sat on a plush couch with his sockless legs crossed, his all beige outfit cuffed at every opening. His long curly hair looked particularly boyish in his outfit. I was not confident he remembered that we were coming over to film the interview this day.
+
+------
+
+"The most commonly used word in 2014 was the heart emoji," said Danny.
+
+"The heart emoji is not a word," exclaimed Rachel.
+
+"A word is only an abstraction," I said, surprising even myself with how dismissive I sounded, "H-E-A-R-T is only an abstraction meant to communicate both the literal and the figurative. There is nothing concrete about those letters and the history of human languages is a testiment to that."
+
+The office was quickly silent and everyone slowly turned their chairs back to their monitors.
+
+"A design can communicate a concept and a feeling much more readily and sometimes more emotionally than a sentence," I continued but Rachel quickly interupted me, "they're different."
+
+Garments are an abstraction for the magnitude of the commitment to God, and they are also a literal sheild against the power of the devil.
+
+Many things are abstractions, for me lately. Abstractions are tricky, because their definitions can change based on context and tone. Calling garments, "Jesus Jamies," doesn't change the physical entity, but it can change the abstract concept of commitment through trivializing their significance.
+
+I have met Mormons who have lost all sense of the abstract for their garments and begin using them for the very practical purposes like: physical protection from bullets and/or car accidents, undershirt to look classly beneath a sheer top, affordable (though completely counter-sexual) underwear, and often (after retirement) as shop rags.
+
+Here was Rachel, copywriter, making a face she only seems to make for me to communicate: okay, Kyle, I get the point.
+
+Inserting one last position, I mumbled, "what do you think people did before the alphabet?"
+
+Which begs the question, how did people communicate the implied or the abstract before symbols? 
+
+------
+
+"Wait, why didn't you tell us about these before? Hang on, hang-on-hang-on. You said that the weirdest part about mormonism was that they beleive in Aliens."
+
+"There are many lateral levels of Mormon weirdness", I said, thinking to myself of the many things that scandalize teenagers when they first come upon anti-mormon literature. "The concept is actually pretty common, especially with Judeo-Christians. It's really only foreign to protestants, of which we all are."
+
+"How do you figure?"
+
+"The orthodox have their Clerical stuff, Jews have kippahs, and Islam its headscarves and burqas. Considering how pecuiliar Mormons are, garments are actually pretty practical. Only the wearer is reminded of their existance, which really speaks to the Mormon aesthetic: be a truly good person, not look like a good person."
 
 ------
 

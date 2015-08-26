@@ -11,7 +11,7 @@ tags : []
 
 "No, no. Of course not. Just trying to meet up with my coworkers," I said, looking down and praying to the God of Bowling for a group text notification to come through. 
 
-She looked at me with eyes that had years of understanding, "did I freak you out?"
+She looked at me with eyes that had understanding, "did I freak you out?"
 
 "No, it's fine. I'm fine. Really."
 
