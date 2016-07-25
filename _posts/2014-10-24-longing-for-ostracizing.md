@@ -9,7 +9,7 @@ tags : []
 
 Finally it came. The feeling I had been waiting for. I woke up and felt my heart doubled over in pain. I stood in the shower and watched the water run through my hands as I felt the dull pain thump like a rhythm through my body.
 
-It wasn’t the pain of sin, or the the sinking feeling of one who regrets. It was the realization of living the rest of my life without the single most important thing previously in my life. The community I was raised in, the place where I was married, the people I called my friends, and the institution by which I learned to be a good man.
+It wasn’t the pain of sin, I had been expecting. It was the realization of living the rest of my life without my people. The community I was raised in, the place where I was married, the people I called my friends, and the institution by which I learned to be a good man was now gone.
 
 On Radio West a few weeks before they talked about the inevitable process of loss as you leave the church. Surely sounded like a painful experience.
 

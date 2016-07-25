@@ -55,7 +55,10 @@ April 25 at 1:23am
 
 > Steffany Lloyd: Happy update! The Dr. just came and said Clay must have some strong connections with deity because he has got blood flow back in the nerve of his eye which he said should have been dead from the bones pinching off the blood supply on that nerve for so long.
 
-> Spence Thompson: Heavenly Father, we first Thank Thee for all that we receive each of us who at this time pray to Thee concerning our brother Clay. We know that Thou art mindful of even they the least of thy Kingdom, and know without question Thy relationship with Thy Son is one as bright as any Sun, that borrows Thy light. We know by proof of prayer Clay's influence in this world, that Thou oversees...we know his belief is unwavering in Thee and serves Thee continually unfailing.
+> Spence Thompson: Heavenly Father, we first Thank Thee for all that we receive each of us who at this time pray to Thee concerning our brother Clay. We know that Thou art mindful of even they the least of thy Kingdom, and know without question Thy relationship with Thy Son is one as bright as any Sun, that borrows Thy light. We know by proof of prayer Clay's influence in this world, that Thou oversees...we know his belief is unwavering in Thee and serves Thee continually unfailing. In the name of Jesus Christ, Amen.
 
 I can't help but want to gather my friends and to shout in unison: one more song, one more song. It’s a strange desperation, being at the Our Father Lord DJ in the Sky's mercy.
 
+---------
+
+Tragedy is having something unimaginable happen to you on a timeline that isn't inconvenient. When tragedy hits, you first feel inconvenienced. You are so used to everything working out that you can't be bothered with imagining that this too won't be okay in the end. When things finally turn, and you realize that something emensly painful has happened to you, it occurs to you how much of your life is just fine. "How often have I been moments away from tragedy," you might ask yourself. Why have I been preserved from pain all of this time?

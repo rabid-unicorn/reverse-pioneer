@@ -7,11 +7,13 @@ tags : []
 ---
 {% include JB/setup %}
 
+(move to back??)
+
 "Are we okay? Did you ditch me on purpose?"
 
-"No, no. Of course not. Just trying to meet up with my coworkers," I said, looking down and praying to the God of Bowling for a group text notification to come through. 
+"No, no. Of course not. Just trying to meet up with my coworkers," I said, looking down and praying to the God of Parties for a group text notification to come through. There is no Savior for introverts at parties.
 
-She looked at me with eyes that had understanding, "did I freak you out?"
+She looked at me with eyes that understood me, "did I freak you out?"
 
 "No, it's fine. I'm fine. Really."
 
@@ -23,7 +25,7 @@ She looked at me with eyes that had understanding, "did I freak you out?"
 
 The music was still too loud. It was much easier to talk out on the porch.
 
-"I want to be your friend," she said as she pressed her phone into my hand, an empty new contact form on the screen. She looked up up at me and I looked down at her as her expression shifted to match the conflicted look in mine.
+"I want to be your friend," she said as she pressed her phone into my hand, an empty new contact form on the screen. She looked up at me and I looked down at her as her expression shifted to match the conflicted look in mine.
 
 "I didn't see you smile until we drew each other."
 
@@ -31,7 +33,7 @@ The music was still too loud. It was much easier to talk out on the porch.
 
 "Yep," she continued through hurried nods, "you were doing that networking smile at first, but there was this amazing moment while I was drawing you where you relaxed, and you were like, 'okay, I'm being memorialized, time to show off the good stuff.'"
 
-"Oh yeah," I laughed, still shouting over the music, "like Cannal street? I was hiding hiding the good shit until it was asked for?"
+"Oh yeah," I laughed, still shouting over the music, "like Cannal street? I was hiding the good shit until it was asked for?"
 
 Mature women in blazers were shaking their round asses in front of us. The business woman two step. Alcohol does amazing things with round assed women. I was still holding her phone, just finishing up the contact information by writing in the non-incriminating title, "dude from Utah".
 
